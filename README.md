@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##  :man_technologist: Mission:
-BlockChain Developer firmly Believing in the new Economical, Political and Social Stratification that BlockChain Technologies, \
-on top of the Existing ones, brings as a Means to further Improve Human Condition, to further Collectively Grow and Evolve.
+##  :man: About Me:
+Hi, there! My name is Eduard Beiline, I'm an aspiring Software Engineer, who is looking for an Internship. Currently studying at 👨🏻‍💻 [42 Wolfsburg](https://42wolfsburg.de/)
 
 <br />
 
@@ -28,9 +27,10 @@ on top of the Existing ones, brings as a Means to further Improve Human Conditio
 
 <br />
 
+## 📚 42 Curriculum Progress
+
 [![ebeiline's 42 stats](https://badge42.vercel.app/api/v2/cl3g3rmvh003109l5b540dua1/stats?cursusId=21&coalitionId=149)](https://github.com/JaeSeoKim/badge42)
 
-## 📚 42 Curriculum Progress
 | No  | Project                                    | Status |   | No  | Project       | Status |   | No  | Project                        | Status |
 | :-: | :----------------------------------------- | :----: | - | :-: | :------------ | :----: | - | :-: | :----------------------------- | :----: |
 | 1   | [Libft](../../../libft)                    | ✅     |   | 01  | cub3d         | ✅     |   | 12  | NetPractice                    | 🛠️      |
