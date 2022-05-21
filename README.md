@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Eduard953/Eduard953** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##  :man: About Me:
+## Hi there 👋 :man: About Me:
 Hi, there! My name is Eduard Beiline, I'm an aspiring Software Engineer, who is looking for an Internship. \
 Currently studying at 👨🏻‍💻 [42 Wolfsburg](https://42wolfsburg.de/)
 
