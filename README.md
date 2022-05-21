@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## About Me :man::
+## About Me:
 Hi, there! My name is Eduard Beiline, I'm an aspiring Software Engineer, who is looking for an Internship. \
 Currently studying at 👨🏻‍💻 [42 Wolfsburg](https://42wolfsburg.de/)
 
