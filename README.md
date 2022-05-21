@@ -25,7 +25,6 @@ Currently studying at 👨🏻‍💻 [42 Wolfsburg](https://42wolfsburg.de/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Eduard_Beiline-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eduardbeiline)
 
-
 <br />
 
 ## 📚 42 Curriculum Progress
@@ -47,7 +46,6 @@ Currently studying at 👨🏻‍💻 [42 Wolfsburg](https://42wolfsburg.de/)
 | 10  |  Philosophers                              | ✅     |   | 11  | CPP Module 08 | 🛠️     |   |     |                                |         |
 
 <br />
-
 
 ## 📊 My Stats :
 ![garadraw's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eduard953&hide=contribs,prs&show_icons=true&theme=dark)
