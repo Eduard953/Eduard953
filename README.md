@@ -35,7 +35,7 @@ Currently studying at 👨🏻‍💻 [42 Wolfsburg](https://42wolfsburg.de/)
 | :-: | :----------------------------------------- | :----: | - | :-: | :------------ | :----: | - | :-: | :----------------------------- | :----: |
 | 1   | [Libft](../../../libft)                    | ✅     |   | 01  | cub3d         | ✅     |   | 12  | NetPractice                    | 🛠️      |
 | 2   | Born2beroot                                | ✅     |   | 02  | miniRT        | 🔒     |   | 13  | ft_containers                  | 🔒      |
-| 3   | [ft_printf](../../../ft_printf)            | ✅     |   | 03  | CPP Module 00 | ✅     |   | 14  | ft_irc                         | 🔒      |
+| 3   | [ft_printf](../../../ft_printf)            | ✅     |   | 03  | [CPP Module 00](../../../cpp/cp00) | ✅     |   | 14  | ft_irc                         | 🔒      |
 | 4   | [get_next_line](../../../get_next_line)    | ✅     |   | 04  | CPP Module 01 | ✅     |   | 15  | webserv                        | 🔒      |
 | 5   | FdF                                        | 🔒     |   | 05  | CPP Module 02 | ✅     |   | 16  | Inception                      | 🔒      |
 | 5   | [so_long](../../../so_long)                | ✅     |   | 06  | CPP Module 03 | ✅     |   | 17  | ft_transcendence               | 🔒      |
