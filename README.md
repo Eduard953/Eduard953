@@ -48,11 +48,11 @@ Currently studying at 👨🏻‍💻 [42 Wolfsburg](https://42wolfsburg.de/)
 <br />
 
 ## 📊 My Stats :
-![garadraw's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eduard953&hide=contribs,prs&show_icons=true&theme=dark)
+![Eduard953's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eduard953&hide=contribs,prs&show_icons=true&theme=vue-dark)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Eduard953&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Eduard953&theme=vue-dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduard953&layout=compact&theme=dark)](https://github.com/garadraw/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduard953&layout=compact&theme=vue-dark)](https://github.com/garadraw/github-readme-stats)  
 <br />
 
 ## :hammer_and_wrench: Languages and Tools :
