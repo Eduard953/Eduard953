@@ -39,7 +39,7 @@ Currently studying at 👨🏻‍💻 [42 Wolfsburg](https://42wolfsburg.de/)
 | 4   | [get_next_line](../../../get_next_line)    | ✅     |   | 04  | CPP Module 01 | ✅     |   | 15  | webserv                        | 🔒      |
 | 5   | FdF                                        | 🔒     |   | 05  | CPP Module 02 | ✅     |   | 16  | Inception                      | 🔒      |
 | 5   | [so_long](../../../so_long)                | ✅     |   | 06  | CPP Module 03 | ✅     |   | 17  | ft_transcendence               | 🔒      |
-| 6   | minitalk                                   | ✅     |   | 07  | CPP Module 04 | ✅     |   |     |                                |         |
+| 6   | [minitalk](../../../minitalk)              | ✅     |   | 07  | CPP Module 04 | ✅     |   |     |                                |         |
 | 7   |  pipex                                     | 🔒     |   | 08  | CPP Module 05 | ✅     |   |     |                                |         |
 | 8   | [push_swap](../../../push_swap)            | ✅     |   | 09  | CPP Module 06 | ✅     |   |     |                                |         |
 | 9   |  minishell                                 | ✅     |   | 10  | CPP Module 07 | ✅     |   |     |                                |         |
