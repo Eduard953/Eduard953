@@ -52,7 +52,7 @@ Currently studying at 👨🏻‍💻 [42 Wolfsburg](https://42wolfsburg.de/)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Eduard953&theme=vue-dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduard953&layout=compact&theme=vue-dark)](https://github.com/Eduard953/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduard953&layout=compact&theme=vue-dark%hide=jupyter%20notebook)](https://github.com/Eduard953/github-readme-stats)  
 <br />
 
 ## :hammer_and_wrench: Languages and Tools :
