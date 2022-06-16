@@ -54,7 +54,7 @@ Currently studying at 👨🏻‍💻 [42 Wolfsburg](https://42wolfsburg.de/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduard953&layout=compact&theme=vue-dark%hide=jupyter%20notebook)](https://github.com/Eduard953/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduard953&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduard953&hide=jupyter%20notebook&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
